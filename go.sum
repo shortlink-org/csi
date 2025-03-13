@@ -555,6 +555,8 @@ github.com/segmentio/encoding v0.4.1/go.mod h1:/d03Cd8PoaDeceuhUUUQWjU0KhWjrmYrW
 github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24/go.mod h1:M+9NzErvs504Cn4c5DxATwIqPbtswREoFCre64PpcG4=
 github.com/shortlink-org/shortlink v0.0.0-20250313052403-b2eb2aea370a h1:mMeLB3iOg1cYZUzJKZL2qjbLOBD0dk+CHD+ctWb/LYg=
 github.com/shortlink-org/shortlink v0.0.0-20250313052403-b2eb2aea370a/go.mod h1:djkFanwiO5THhzxeMYFnm7r6r8a52a1lD4WUNMnalAA=
+github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672 h1:Y5JHTnSOnWEk+vHPhztjz8gz+IgdwyMaU1hBRTTS9bo=
+github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672/go.mod h1:djkFanwiO5THhzxeMYFnm7r6r8a52a1lD4WUNMnalAA=
 github.com/sirupsen/logrus v1.4.1/go.mod h1:ni0Sbl8bgC9z8RoU9G6nDWqqs/fq4eDPysMBDgk/93Q=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrfsX/uA88=
