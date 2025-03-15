@@ -288,6 +288,8 @@ github.com/gorilla/securecookie v1.1.1/go.mod h1:ra0sb63/xPlUeL+yeDciTfxMRAA+MP+
 github.com/gorilla/sessions v1.2.1/go.mod h1:dk2InVEVJ0sfLlnXv9EAgkf6ecYs/i80K/zI+bUmuGM=
 github.com/grafana/pyroscope-go v1.2.0 h1:aILLKjTj8CS8f/24OPMGPewQSYlhmdQMBmol1d3KGj8=
 github.com/grafana/pyroscope-go v1.2.0/go.mod h1:2GHr28Nr05bg2pElS+dDsc98f3JTUh2f6Fz1hWXrqwk=
+github.com/grafana/pyroscope-go v1.2.1 h1:ewi38pE6XMnoHlZYhGxS3uH5TGKA7vDhkT1T3RVkjq0=
+github.com/grafana/pyroscope-go v1.2.1/go.mod h1:zzT9QXQAp2Iz2ZdS216UiV8y9uXJYQiGE1q8v1FyhqU=
 github.com/grafana/pyroscope-go/godeltaprof v0.1.8 h1:iwOtYXeeVSAeYefJNaxDytgjKtUuKQbJqgAIjlnicKg=
 github.com/grafana/pyroscope-go/godeltaprof v0.1.8/go.mod h1:2+l7K7twW49Ct4wFluZD3tZ6e0SjanjcUUBPVD/UuGU=
 github.com/grpc-ecosystem/go-grpc-middleware v1.4.0 h1:UH//fgunKIs4JdUbpDl1VZCDaL56wXCB/5+wF6uHfaI=
@@ -489,6 +491,8 @@ github.com/opencontainers/runc v1.2.5 h1:8KAkq3Wrem8bApgOHyhRI/8IeLXIfmZ6Qaw6DNS
 github.com/opencontainers/runc v1.2.5/go.mod h1:dOQeFo29xZKBNeRBI0B19mJtfHv68YgCTh1X+YphA+4=
 github.com/ory/client-go v1.17.2 h1:DnxJspytbUgTD6+HoYCdHfVJa3HHMhM5R4CPxeRMTLA=
 github.com/ory/client-go v1.17.2/go.mod h1:zsXgx2LhkEqjoMew7vXqWANDxiM6beH+1H9cnRfUtuA=
+github.com/ory/client-go v1.18.5 h1:WLy/XQS8HDMWdgUlfmTnvHoufsfjubEIhFgkgCgjc8g=
+github.com/ory/client-go v1.18.5/go.mod h1:AeschHPAcgzOTXEOY+Lqy+DI/spom9PLlK7+06cSPGw=
 github.com/ory/dockertest/v3 v3.11.0 h1:OiHcxKAvSDUwsEVh2BjxQQc/5EHz9n0va9awCtNGuyA=
 github.com/ory/dockertest/v3 v3.11.0/go.mod h1:VIPxS1gwT9NpPOrfD3rACs8Y9Z7yhzO4SB194iUDnUI=
 github.com/pelletier/go-toml/v2 v2.2.3 h1:YmeHyLY8mFWbdkNWwpr+qIL2bEqT0o95WSdkNHvL12M=
@@ -555,6 +559,8 @@ github.com/segmentio/encoding v0.4.1/go.mod h1:/d03Cd8PoaDeceuhUUUQWjU0KhWjrmYrW
 github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24/go.mod h1:M+9NzErvs504Cn4c5DxATwIqPbtswREoFCre64PpcG4=
 github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672 h1:Y5JHTnSOnWEk+vHPhztjz8gz+IgdwyMaU1hBRTTS9bo=
 github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672/go.mod h1:djkFanwiO5THhzxeMYFnm7r6r8a52a1lD4WUNMnalAA=
+github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458 h1:hW0QOtD8pOMLyqK77zIFIrnxMCRWFtFah5NL3tmPfw0=
+github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458/go.mod h1:OpB5PUxfOi8kVUvO77vy+HhzoVjUhrFQDDj+XDP/HEE=
 github.com/sirupsen/logrus v1.4.1/go.mod h1:ni0Sbl8bgC9z8RoU9G6nDWqqs/fq4eDPysMBDgk/93Q=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrfsX/uA88=
