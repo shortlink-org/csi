@@ -561,6 +561,8 @@ github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672 h1:Y5JHTnS
 github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672/go.mod h1:djkFanwiO5THhzxeMYFnm7r6r8a52a1lD4WUNMnalAA=
 github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458 h1:hW0QOtD8pOMLyqK77zIFIrnxMCRWFtFah5NL3tmPfw0=
 github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458/go.mod h1:OpB5PUxfOi8kVUvO77vy+HhzoVjUhrFQDDj+XDP/HEE=
+github.com/shortlink-org/shortlink v0.0.0-20250315151516-ef9487c278b7 h1:KzBbeldsexePaj8L/kffCqhcXvOy0pcXQZRIQ44CriE=
+github.com/shortlink-org/shortlink v0.0.0-20250315151516-ef9487c278b7/go.mod h1:OpB5PUxfOi8kVUvO77vy+HhzoVjUhrFQDDj+XDP/HEE=
 github.com/sirupsen/logrus v1.4.1/go.mod h1:ni0Sbl8bgC9z8RoU9G6nDWqqs/fq4eDPysMBDgk/93Q=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrfsX/uA88=
