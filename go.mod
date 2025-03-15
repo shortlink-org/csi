@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.6.0
 	github.com/kubernetes-csi/csi-test/v5 v5.3.1
-	github.com/shortlink-org/shortlink v0.0.0-20250313072534-27198e566672
+	github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.10.0
@@ -59,7 +59,7 @@ require (
 	github.com/google/flatbuffers v25.2.10+incompatible // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/pprof v0.0.0-20250208200701-d0013a598941 // indirect
-	github.com/grafana/pyroscope-go v1.2.0 // indirect
+	github.com/grafana/pyroscope-go v1.2.1 // indirect
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.0.1 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.1 // indirect
@@ -96,7 +96,7 @@ require (
 	github.com/neo4j/neo4j-go-driver/v5 v5.28.0 // indirect
 	github.com/onsi/ginkgo/v2 v2.23.0 // indirect
 	github.com/onsi/gomega v1.36.2 // indirect
-	github.com/ory/client-go v1.17.2 // indirect
+	github.com/ory/client-go v1.18.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
 	github.com/pierrec/lz4/v4 v4.1.22 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
