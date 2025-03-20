@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.6.0
 	github.com/kubernetes-csi/csi-test/v5 v5.3.1
-	github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458
+	github.com/shortlink-org/shortlink v0.0.0-20250320185953-73466f74ab65
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.10.0
@@ -108,10 +108,10 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/rabbitmq/amqp091-go v1.10.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
-	github.com/redis/go-redis/v9 v9.7.1 // indirect
-	github.com/redis/rueidis v1.0.55 // indirect
-	github.com/redis/rueidis/rueidiscompat v1.0.55 // indirect
-	github.com/redis/rueidis/rueidisotel v1.0.55 // indirect
+	github.com/redis/go-redis/v9 v9.7.3 // indirect
+	github.com/redis/rueidis v1.0.56 // indirect
+	github.com/redis/rueidis/rueidiscompat v1.0.56 // indirect
+	github.com/redis/rueidis/rueidisotel v1.0.56 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sagikazarmark/locafero v0.7.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
