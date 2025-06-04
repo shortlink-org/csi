@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.6.0
 	github.com/kubernetes-csi/csi-test/v5 v5.3.1
-	github.com/shortlink-org/shortlink v0.0.0-20250315134920-a7bfc6abc458
+	github.com/shortlink-org/shortlink 510e6143a4d1
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.10.0
