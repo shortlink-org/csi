@@ -172,7 +172,7 @@ replace (
 	k8s.io/apiserver => k8s.io/apiserver v0.33.1
 	k8s.io/cli-runtime => k8s.io/cli-runtime v0.32.3
 	k8s.io/client-go => k8s.io/client-go v0.32.2
-	k8s.io/cloud-provider => k8s.io/cloud-provider v0.32.3
+	k8s.io/cloud-provider => k8s.io/cloud-provider v0.33.3
 	k8s.io/cluster-bootstrap => k8s.io/cluster-bootstrap v0.33.1
 	k8s.io/code-generator => k8s.io/code-generator v0.32.3
 	k8s.io/component-base => k8s.io/component-base v0.33.1
