@@ -13,7 +13,7 @@ require (
 	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/otel/trace v1.37.0
-	golang.org/x/net v0.40.0
+	golang.org/x/net v0.43.0
 	golang.org/x/sync v0.14.0
 	google.golang.org/grpc v1.72.2
 	google.golang.org/protobuf v1.36.8
