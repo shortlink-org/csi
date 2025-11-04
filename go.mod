@@ -11,7 +11,7 @@ require (
 	github.com/shortlink-org/shortlink 510e6143a4d1
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.20.1
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	go.opentelemetry.io/otel/trace v1.38.0
 	golang.org/x/net v0.40.0
 	golang.org/x/sync v0.17.0
