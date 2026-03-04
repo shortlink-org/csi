@@ -3,7 +3,7 @@ module github.com/shortlink-org/csi
 go 1.24.2
 
 require (
-	github.com/container-storage-interface/spec v1.11.0
+	github.com/container-storage-interface/spec v1.12.0
 	github.com/golang/glog v1.2.5
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.7.0
