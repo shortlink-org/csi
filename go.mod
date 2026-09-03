@@ -1,6 +1,6 @@
 module github.com/shortlink-org/csi
 
-go 1.24.2
+go 1.25
 
 require (
 	github.com/container-storage-interface/spec v1.12.0
@@ -19,7 +19,7 @@ require (
 	google.golang.org/protobuf v1.36.10
 	k8s.io/kubernetes v1.32.8
 	k8s.io/mount-utils v0.32.2
-	k8s.io/utils v0.0.0-20260319190234-28399d86e0b5
+	k8s.io/utils v0.0.0-20260707023825-cf1189d6abe3
 )
 
 require (
